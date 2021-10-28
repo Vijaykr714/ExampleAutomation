@@ -1,0 +1,2 @@
+Java is a Programming language,It is used for development
+Python is a Scripting Language,It is used for development
