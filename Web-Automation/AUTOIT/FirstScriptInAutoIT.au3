@@ -1,0 +1,1 @@
+MsgBox(1,"Example Window","Welcome to AutoIT Tool")
