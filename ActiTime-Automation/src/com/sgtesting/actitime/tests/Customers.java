@@ -1,15 +1,14 @@
 package com.sgtesting.actitime.tests;
 
-public class Customers extends Initialization{
+public class Customers {
 	
 	/**
-	 * TestCase ID:
-	 * Module Name:
 	 * Created By:
+	 * Created Date:
 	 * Reviewed By:
-	 * Modified By:
-	 * Parameters:
-	 * Return Value:
+	 * Test case ID:
+	 * parameters:
+	 * return type:
 	 * Purpose:
 	 * Description:
 	 */
@@ -25,13 +24,12 @@ public class Customers extends Initialization{
 	}
 	
 	/**
-	 * TestCase ID:
-	 * Module Name:
 	 * Created By:
+	 * Created Date:
 	 * Reviewed By:
-	 * Modified By:
-	 * Parameters:
-	 * Return Value:
+	 * Test case ID:
+	 * parameters:
+	 * return type:
 	 * Purpose:
 	 * Description:
 	 */
@@ -47,13 +45,12 @@ public class Customers extends Initialization{
 	}
 	
 	/**
-	 * TestCase ID:
-	 * Module Name:
 	 * Created By:
+	 * Created Date:
 	 * Reviewed By:
-	 * Modified By:
-	 * Parameters:
-	 * Return Value:
+	 * Test case ID:
+	 * parameters:
+	 * return type:
 	 * Purpose:
 	 * Description:
 	 */

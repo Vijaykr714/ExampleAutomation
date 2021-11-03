@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-02T08:16:30 IST" name="Default suite" finished-at="2021-11-02T08:18:28 IST" duration-ms="118010">
+    <groups>
+    </groups>
+    <test started-at="2021-11-02T08:16:30 IST" name="Default test" finished-at="2021-11-02T08:18:28 IST" duration-ms="118010">
+      <class name="com.sgtesting.actitime.driverscript.DriverScript">
+        <test-method is-config="true" signature="startAutomationSuite()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript@2d901eb0]" started-at="2021-11-02T08:16:30 IST" name="startAutomationSuite" finished-at="2021-11-02T08:16:30 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAutomationSuite -->
+        <test-method is-config="true" signature="loadFiles()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript@2d901eb0]" started-at="2021-11-02T08:16:30 IST" name="loadFiles" finished-at="2021-11-02T08:16:30 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadFiles -->
+        <test-method signature="executeTestScenarios()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript@2d901eb0]" started-at="2021-11-02T08:16:30 IST" name="executeTestScenarios" finished-at="2021-11-02T08:18:28 IST" duration-ms="117975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeTestScenarios -->
+        <test-method is-config="true" signature="endAutomationSuite()[pri:0, instance:com.sgtesting.actitime.driverscript.DriverScript@2d901eb0]" started-at="2021-11-02T08:18:29 IST" name="endAutomationSuite" finished-at="2021-11-02T08:18:29 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endAutomationSuite -->
+      </class> <!-- com.sgtesting.actitime.driverscript.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,19 +1,18 @@
 package com.sgtesting.actitime.tests;
 
-public class Tasks extends Initialization{
+public class Tasks {
 	
 	/**
-	 * TestCase ID:
-	 * Module Name:
 	 * Created By:
+	 * Created Date:
 	 * Reviewed By:
-	 * Modified By:
-	 * Parameters:
-	 * Return Value:
+	 * Test case ID:
+	 * parameters:
+	 * return type:
 	 * Purpose:
 	 * Description:
 	 */
-	public static void createTasks()
+	public static void createTask()
 	{
 		try
 		{
@@ -25,17 +24,16 @@ public class Tasks extends Initialization{
 	}
 	
 	/**
-	 * TestCase ID:
-	 * Module Name:
 	 * Created By:
+	 * Created Date:
 	 * Reviewed By:
-	 * Modified By:
-	 * Parameters:
-	 * Return Value:
+	 * Test case ID:
+	 * parameters:
+	 * return type:
 	 * Purpose:
 	 * Description:
 	 */
-	public static void modifyTasks()
+	public static void modifyTask()
 	{
 		try
 		{
@@ -47,17 +45,16 @@ public class Tasks extends Initialization{
 	}
 	
 	/**
-	 * TestCase ID:
-	 * Module Name:
 	 * Created By:
+	 * Created Date:
 	 * Reviewed By:
-	 * Modified By:
-	 * Parameters:
-	 * Return Value:
+	 * Test case ID:
+	 * parameters:
+	 * return type:
 	 * Purpose:
 	 * Description:
 	 */
-	public static void deleteTasks()
+	public static void deleteTask()
 	{
 		try
 		{
